@@ -15,7 +15,6 @@
  ##
  
 <div> 
-  <a href="https://instagram.com/theamazingbillhagod" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/Instagram-F59812?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielpereira.gps@gmail.com"><img style="border-radius:50px;" src="https://img.shields.io/badge/-Gmail-4A4A55?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
   <a href="https://www.linkedin.com/in/thegabrielpereira" target="_blank"><img style="border-radius:50px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
