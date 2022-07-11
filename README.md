@@ -1,6 +1,5 @@
 - Hi, I’m Gabriel, 26.
 - I'm backend NodeJs developer, JavaScript, also Python and a bit of JAVA.
-- On deep developing of mine skills with JAVA at the moment, and working on a few projects. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
